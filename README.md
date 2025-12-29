@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science, Digital Marketing and Sales!
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Developing Ecommerce Websites
-- 📫 How to reach me : joel@jjames.in
+- 📫 How to reach me : joel.jaimon.james@gmail.com
 
 
 <!---
